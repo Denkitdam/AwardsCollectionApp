@@ -23,9 +23,9 @@ struct MainView: View {
             Spacer()
             
             if awardIsShowing {
-                GradientRectangles()
+                TropheyView()
                     .frame(width: 250, height: 250)
-                    .transition(.customTransition)
+                    .transition(.asymmetric(insertion: .opacity, removal: .customTransition))
             }
             
             Spacer()
