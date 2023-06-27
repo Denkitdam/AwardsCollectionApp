@@ -45,7 +45,7 @@ struct TropheyView: View {
                     .foregroundColor(.white)
                 Image(systemName: "sun.min.fill")
                     .scaleEffect(2)
-                    .offset(x: nearLine + 20, y: nearLine)
+                    .offset(x: nearLine + 15, y: nearLine)
                     .foregroundColor(.yellow)
                 Image(systemName: "figure.mind.and.body")
                     .scaleEffect(3)
