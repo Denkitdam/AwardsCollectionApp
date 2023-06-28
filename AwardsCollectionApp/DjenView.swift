@@ -1,5 +1,5 @@
 //
-//  TropheyView.swift
+//  DjenView.swift
 //  AwardsCollectionApp
 //
 //  Created by Denis Kitaev on 27.06.2023.

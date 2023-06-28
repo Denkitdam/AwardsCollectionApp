@@ -17,7 +17,7 @@
 		A8E1B481267B7967005E98AA /* CurvesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E1B480267B7967005E98AA /* CurvesView.swift */; };
 		A8E1B483267B7972005E98AA /* GradientRectangles.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E1B482267B7972005E98AA /* GradientRectangles.swift */; };
 		A8E1B485267B7979005E98AA /* PathView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E1B484267B7978005E98AA /* PathView.swift */; };
-		C8AF4DD02A4B3B9D0039449E /* TropheyView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8AF4DCF2A4B3B9D0039449E /* TropheyView.swift */; };
+		C8AF4DD02A4B3B9D0039449E /* DjenView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C8AF4DCF2A4B3B9D0039449E /* DjenView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,7 +33,7 @@
 		A8E1B480267B7967005E98AA /* CurvesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CurvesView.swift; sourceTree = "<group>"; };
 		A8E1B482267B7972005E98AA /* GradientRectangles.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GradientRectangles.swift; sourceTree = "<group>"; };
 		A8E1B484267B7978005E98AA /* PathView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PathView.swift; sourceTree = "<group>"; };
-		C8AF4DCF2A4B3B9D0039449E /* TropheyView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TropheyView.swift; sourceTree = "<group>"; };
+		C8AF4DCF2A4B3B9D0039449E /* DjenView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DjenView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,7 +74,7 @@
 				A8E1B482267B7972005E98AA /* GradientRectangles.swift */,
 				A8E1B484267B7978005E98AA /* PathView.swift */,
 				A8E1B480267B7967005E98AA /* CurvesView.swift */,
-				C8AF4DCF2A4B3B9D0039449E /* TropheyView.swift */,
+				C8AF4DCF2A4B3B9D0039449E /* DjenView.swift */,
 				A89D0934267B76D600C1FB66 /* Assets.xcassets */,
 				A89D0939267B76D600C1FB66 /* Info.plist */,
 				A89D0936267B76D600C1FB66 /* Preview Content */,
@@ -162,7 +162,7 @@
 				A8A20B572837907D00C7401B /* CartRacingView.swift in Sources */,
 				A8E1B481267B7967005E98AA /* CurvesView.swift in Sources */,
 				A89D0942267B77C800C1FB66 /* AwardsView.swift in Sources */,
-				C8AF4DD02A4B3B9D0039449E /* TropheyView.swift in Sources */,
+				C8AF4DD02A4B3B9D0039449E /* DjenView.swift in Sources */,
 				A89D0933267B76D400C1FB66 /* MainView.swift in Sources */,
 				A8E1B485267B7979005E98AA /* PathView.swift in Sources */,
 				A89D0931267B76D400C1FB66 /* AwardsCollectionAppApp.swift in Sources */,
